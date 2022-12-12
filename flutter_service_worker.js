@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a4a6b974f538a12a7ce990f2f8883f75",
-"assets/FontManifest.json": "15380358287ff652c8903e491d789cec",
+  "assets/AssetManifest.json": "905b9938a539f85a2a2950ad68dadede",
+"assets/FontManifest.json": "45336a5cee10f75db30bf82536ada256",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/lib/assets/anim.riv": "362abe8f685ba66c7986fa47332ed465",
 "assets/lib/assets/bgimage.png": "1abcd9aade128a35ff4750fe64ac8cad",
 "assets/lib/assets/bulb.png": "d8a36839c932978b712510e15831d43f",
 "assets/lib/assets/clubLogo.png": "7320a5c7b68d4bdcab374f380c8db58e",
 "assets/lib/assets/CoffeeHealing-1GrKe.ttf": "1897e4979936fca503e00ab9dc57667f",
+"assets/lib/assets/edo.ttf": "d0668e64501ea47dfc1b28687d7d216d",
 "assets/lib/assets/havellsLight.png": "1f61910649ba2063966046693cfadbb1",
 "assets/lib/assets/revaUniversity.png": "220180775e9875938000a55a717760af",
 "assets/lib/assets/RobotoSlab-VariableFont_wght.ttf": "ec7c1ae4cc932ee7dc511b070c147b21",
@@ -28,11 +29,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "677d436fdb18abcba11d1394cba81fd6",
-"/": "677d436fdb18abcba11d1394cba81fd6",
-"main.dart.js": "7ebb37996f817f10b7ea37bd5d93fb4d",
+"index.html": "b721376d5b6a22b0acc35b1e63d5b833",
+"/": "b721376d5b6a22b0acc35b1e63d5b833",
+"main.dart.js": "c4fd68c0129463e6984b6dec3152516c",
 "manifest.json": "261659e7820b6c23cb4fc019c163e9c2",
-"version.json": "b9ac84986e5aa246ff61e1a3ce0152f7"
+"version.json": "b9ac84986e5aa246ff61e1a3ce0152f7",
+"web.rar": "742e40f736a540351d021b00e7ef3390"
 };
 
 // The application shell files that are downloaded before a service worker can
